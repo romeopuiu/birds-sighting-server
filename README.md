@@ -10,7 +10,7 @@ http://localhost:8080/swagger-ui/index.html
 Get the source code:
 
 Clone the repository:
-git clone https://github.com/romeopuiu/crud-birds-sighting
+git clone https://github.com/romeopuiu/birds-sighting-server.git
 
 <b>Prerequisites:</b>
 * Spring Boot 2.7.17
