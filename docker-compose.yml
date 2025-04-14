@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: bird_sightings
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin1234
+    ports:
+      - "5432:5432"
+
+  birdsightingserver:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/bird_sightings
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: YOUR_DATABASE_PASSWORD

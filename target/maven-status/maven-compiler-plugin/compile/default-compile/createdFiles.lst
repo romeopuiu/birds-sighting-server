@@ -1,0 +1,16 @@
+com\romeo\birdssighting\mapper\BirdMapper.class
+com\romeo\birdssighting\dto\BirdDTO.class
+com\romeo\birdssighting\config\CorsConfig.class
+com\romeo\birdssighting\repositories\SightingRepository.class
+com\romeo\birdssighting\controllers\BirdController.class
+com\romeo\birdssighting\domain\Sighting.class
+com\romeo\birdssighting\services\SightingService.class
+com\romeo\birdssighting\dto\SightingDTO.class
+com\romeo\birdssighting\domain\Bird.class
+com\romeo\birdssighting\repositories\BirdRepository.class
+com\romeo\birdssighting\mapper\SightingMapper.class
+com\romeo\birdssighting\BirdsSightingServiceApplication.class
+com\romeo\birdssighting\exception\ResourceNotFoundException.class
+com\romeo\birdssighting\mapper\BaseMapper.class
+com\romeo\birdssighting\services\BirdService.class
+com\romeo\birdssighting\controllers\SightingController.class

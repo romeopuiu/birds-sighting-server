@@ -1,0 +1,8 @@
+com\romeo\birdssighting\unit\repositories\BirdRepositoryTest.class
+com\romeo\birdssighting\BirdsSightingServiceApplicationTests.class
+com\romeo\birdssighting\unit\repositories\SightingRepositoryTest.class
+com\romeo\birdssighting\unit\services\BirdServiceTest.class
+com\romeo\birdssighting\unit\services\SightingServiceTest.class
+com\romeo\birdssighting\unit\controllers\BirdControllerTest.class
+com\romeo\birdssighting\unit\controllers\JsonUtil.class
+com\romeo\birdssighting\unit\controllers\SightingControllerTest.class

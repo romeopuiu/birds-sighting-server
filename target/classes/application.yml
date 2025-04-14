@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: birds-sighting-server
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/bird_sightings
+    username: postgres
+    password: admin112
+
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+    generate-ddl: true
