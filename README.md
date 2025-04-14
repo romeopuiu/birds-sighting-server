@@ -70,12 +70,6 @@ After starting the application open Postman:
 ![save-bird](https://github.com/user-attachments/assets/76aedaf0-0f75-49a9-b3b3-da6cd58cec20)
 
 
-
-
-![save-bird-in-database](https://github.com/user-attachments/assets/3fae45a3-6ef2-4a5f-9a84-2eefbc685b30)
-
-
-
 ![update-bird](https://github.com/user-attachments/assets/b68c11a1-53a5-4e57-82e7-7faed5ad5ccb)
 
 
