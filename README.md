@@ -1,7 +1,7 @@
 <h4>CRUD Application using React and Spring Boot</h4>
 
-<h3>This project is a simple CRUD (Create, Read, Update, Delete) application built 
-with React for the frontend and Spring Boot for the backend.</h3>
+<h4>This project is a simple CRUD (Create, Read, Update, Delete) application built 
+with React for the frontend and Spring Boot for the backend.</h4>
 
 Service supports CRUD operations for birds and sightings
 <h3>API documentation:</h3>
