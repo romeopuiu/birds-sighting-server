@@ -1,5 +1,3 @@
-<h4>CRUD Application using React and Spring Boot</h4>
-
 <h4>This project is a simple CRUD (Create, Read, Update, Delete) application built 
 with Spring Boot for the backend.</h4>
 
