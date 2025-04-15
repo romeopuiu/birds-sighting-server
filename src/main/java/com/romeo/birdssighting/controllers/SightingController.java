@@ -79,7 +79,7 @@ public class SightingController {
     /**
      * This method is used for get a single Sighting by Id
      */
-    @Operation(summary = "Get a sighting by ID")
+    @Operation(summary = "Get a sighting by Id")
     @ApiResponse(responseCode = "200", description = "Sighting retrieved successfully")
     @GetMapping("/sightings/{id}")
     public ResponseEntity<SightingDTO> getSightingById(@PathVariable(value = "id") Long id) {
@@ -124,7 +124,7 @@ public class SightingController {
     /**
      * This method is used for delete a Sighting by id
      */
-    @Operation(summary = "Delete a sighting by ID")
+    @Operation(summary = "Delete a sighting by Id")
     @ApiResponse(responseCode = "200", description = "Sighting deleted successfully")
     @DeleteMapping("/sightings/{id}")
     public void deleteSighting(@PathVariable Long id) {
