@@ -112,6 +112,7 @@ After starting the application open Postman:
 
 
 
-UI React birds-sighting-client:
-Can be open here :  https://github.com/romeopuiu/birds-sighting-client 
+UI birds-sighting-client with React
+
+is here :  https://github.com/romeopuiu/birds-sighting-client 
 
