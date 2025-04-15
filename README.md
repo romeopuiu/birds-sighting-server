@@ -3,7 +3,6 @@
 <h4>This project is a simple CRUD (Create, Read, Update, Delete) application built 
 with Spring Boot for the backend.</h4>
 
-Service supports CRUD operations for birds and sightings
 <h3>API documentation:</h3>
 http://localhost:8080/swagger-ui/index.html
 
