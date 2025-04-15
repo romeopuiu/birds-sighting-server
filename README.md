@@ -6,6 +6,15 @@ with Spring Boot for the backend.</h4>
 <h3>API documentation:</h3>
 http://localhost:8080/swagger-ui/index.html
 
+
+
+
+
+
+![api-documentation](https://github.com/user-attachments/assets/26d04685-f0ac-4624-a570-4668e1ce8693)
+
+
+
 Get the source code:
 
 Clone the repository:
